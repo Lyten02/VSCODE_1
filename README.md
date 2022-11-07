@@ -8,15 +8,11 @@
 
 # Если хотите скачать пре-релиз над которым я работаю
 
-Скачайте
+Скачайте [bash](https://gitforwindows.org/)
 
-bash https://gitforwindows.org/
+Выберите папку и нажмите пкм на пусто место нажмите Git Bash Here
 
-Выберите папку и нажмите пкм на пусто место и нажмите
-
-Git Bash Here
-
-В нем введите
+В нем вставте
 
 ```nginx
 git clone https://github.com/Lyten02/VSCODE_1.git

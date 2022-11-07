@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kosta\\Desktop\\c#\\Programm\\Programm.csproj": {}
+    "C:\\Users\\kosta\\Desktop\\Repositoriy\\VSCODE_1\\Programm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kosta\\Desktop\\c#\\Programm\\Programm.csproj": {
+    "C:\\Users\\kosta\\Desktop\\Repositoriy\\VSCODE_1\\Programm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kosta\\Desktop\\c#\\Programm\\Programm.csproj",
+        "projectUniqueName": "C:\\Users\\kosta\\Desktop\\Repositoriy\\VSCODE_1\\Programm.csproj",
         "projectName": "Programm",
-        "projectPath": "C:\\Users\\kosta\\Desktop\\c#\\Programm\\Programm.csproj",
+        "projectPath": "C:\\Users\\kosta\\Desktop\\Repositoriy\\VSCODE_1\\Programm.csproj",
         "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kosta\\Desktop\\c#\\Programm\\obj\\",
+        "outputPath": "C:\\Users\\kosta\\Desktop\\Repositoriy\\VSCODE_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kosta\\AppData\\Roaming\\NuGet\\NuGet.Config"

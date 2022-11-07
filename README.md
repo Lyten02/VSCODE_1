@@ -13,3 +13,6 @@ Git Bash Here
 Устанавливаем .NET для C#
 https://dotnet.microsoft.com/en-us/download
 После установки открываем по пути выше файл.exe
+```nginx
+https://dotnet.microsoft.com/en-us/download
+```

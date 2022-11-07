@@ -25,7 +25,3 @@ git clone https://github.com/Lyten02/VSCODE_1.git
 Устанавливаем [.NET](https://dotnet.microsoft.com/en-us/download) для C#
 
 После установки открываем по пути выше файл.exe
-
-```nginx
-https://dotnet.microsoft.com/en-us/download
-```

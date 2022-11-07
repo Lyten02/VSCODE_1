@@ -10,7 +10,9 @@
 
 Скачайте [bash](https://gitforwindows.org/)
 
-Выберите папку и нажмите пкм на пусто место нажмите Git Bash Here
+Выберите папку и нажмите пкм на пустое пространство нажмите Git Bash Here
+
+https://i.imgur.com/YwfMxMS.png
 
 В нем вставте
 

@@ -12,7 +12,7 @@
 
 Выберите папку и нажмите пкм на пустое пространство нажмите Git Bash Here
 
-https://i.imgur.com/YwfMxMS.png
+![5Pi1suCbvi202211понедельник](https://user-images.githubusercontent.com/87010935/200309047-d9bf6110-2e52-47b7-978d-2968df0e1f0b.png)
 
 В нем вставте
 

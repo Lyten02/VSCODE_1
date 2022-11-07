@@ -9,9 +9,9 @@ bash https://gitforwindows.org/
 Git Bash Here
 В нем введите
 
-'''nginx
+```nginx
 git clone https://github.com/Lyten02/VSCODE_1.git
-'''
+```
 
 Переходим по пути /VSCODE_1/bin/Debug/net6.0
 Устанавливаем [.NET](https://dotnet.microsoft.com/en-us/download) для C#

@@ -1,4 +1,6 @@
-﻿int _day = 0;
+﻿using System;
+
+int _day = 0;
 int _weekends = 0;
 int _var;
 int profit_month;
